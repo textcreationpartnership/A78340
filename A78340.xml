@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The schismatick sifted through a sive of the largest size: but is now more purely drest. Wherein the chaffe, the froth, and the scumme of Mr. John Vicars his siftings and paintings prove him to be a lame draughts-man, a smearie washer, his colours falsly mixt, and his pencill as course as his colours. Collected out of his own words, and under his own hand. / By T.C. a well-willer to truth and peace. Published according to order.</title>
+            <author>T. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78340</idno>
+            <idno type="STC">Wing C141</idno>
+            <idno type="STC">Thomason E342_4</idno>
+            <idno type="STC">ESTC R200928</idno>
+            <idno type="EEBO-CITATION">99861541</idno>
+            <idno type="PROQUEST">99861541</idno>
+            <idno type="VID">113678</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113678)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E342[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The schismatick sifted through a sive of the largest size: but is now more purely drest. Wherein the chaffe, the froth, and the scumme of Mr. John Vicars his siftings and paintings prove him to be a lame draughts-man, a smearie washer, his colours falsly mixt, and his pencill as course as his colours. Collected out of his own words, and under his own hand. / By T.C. a well-willer to truth and peace. Published according to order.</title>
+                  <author>T. C.</author>
+               </titleStmt>
+               <extent>[4], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.A. for S.W.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Vicars, John.  The schismatick sifted (Wing V326).</note>
+                  <note>Annotation on Thomason copy: "June 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vicars, John, 1579 or 80-1652. --  Schismatick sifted --  Early works to 1800.</term>
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113678:1" rendition="simple:additions"/>
+            <p>THE Schiſmaticke Sifted THROUGH A SIVE of the largeſt ſize: BUT <hi>Is now more purely dreſt.</hi> WHEREIN The Chaffe, the Froth, and the Scumme of Mr. JOHN VICARS his Siftings and Paintings prove him to be a lame Draughtſ-man, a ſmearie Waſher, his Colours falſly mixt, and his Pencill as courſe as his Colours.</p>
+            <p>
+               <hi>Collected out of his own words, and under his own hand.</hi>
+            </p>
+            <p>By <hi>T. C.</hi> a Well-willer to Truth and Peace.</p>
+            <q>For Sions-Sons ſake I cannot hold my peace.</q>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. A.</hi> for <hi>S. W.</hi> 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113678:2"/>
+            <pb facs="tcp:113678:2"/>
+            <head>To the impartiall Reader of theſe few Lines.</head>
+            <opener>
+               <salute>Ingenious Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F ever it was a time to ſpeake a few words in behalf of Truth, and thoſe that ſincerely profeſs it, now is the time, when under a fair pretence of honour done to God, ſuch a curſed Treatiſe ſhould be ven<g ref="char:EOLhyphen"/>ted, which ſpeaks worſe language then the Devill, for he durſt not bring railing accuſati<g ref="char:EOLhyphen"/>ons: but the Author fore-mentioned brings falſe accuſations: but the Devill doth all by Gods permiſsion, and ſo doth he.</p>
+            <p>His plea is, he doth it to ſtop their mouths; and it is to be feared, he would ſtop their breaths alſo, could he obtaine his deſigne.</p>
+            <p>He would have an orderly confuſion, and yet will not be content therewith, unleſſe all ſwim down his ſtreame. This his valour for
+<pb facs="tcp:113678:3"/>Truth, cloathed in ſo black a habit, Truth will never owne.</p>
+            <p>My deſire is therefore to all that love the truth in ſincerity, to take notice of this whole Work, which is made up of nothing but rai<g ref="char:EOLhyphen"/>ing reviling vilifyings of thoſe godly, faithful, zealous, diſſenting Miniſters of the Goſpell, purpoſely to open the mouthes of the foule-mouth'd multitude againſt them; as alſo (if it were poſsible) to make way for a ſtreame of vengeance, fill'd up with malice, to over<g ref="char:EOLhyphen"/>whelme theſe faithfull men, who are as much intereſted and ingaged in Englands ſad con<g ref="char:EOLhyphen"/>dition, as alſo the other Kingdoms, and have expreſſed as much faithfulneſſe towards God, and performed all their relations both to Powers and Kingdomes, as any Presbyteri<g ref="char:EOLhyphen"/>ans whatſoever; and therefore, as through pride and envie this contention was raiſed, ſo undoubtedly it will receive a ſpeedy downfall.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:113678:3"/>
+            <head>
+               <hi>The Schiſmaticke ſifted;</hi> OR HIS Shifts diſcovered: by way of Reply to Mr. JOHN VICARS.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have ever much reſpected your gravi<g ref="char:EOLhyphen"/>ty, knowing the gray head is an ho<g ref="char:EOLhyphen"/>nour, when found in the way of righ<g ref="char:EOLhyphen"/>teouſneſſe; and I perſwade my ſelfe, you would never have gone ſo far out of that way as you have done at this time, had not your intereſt out-ſwayed your judgment.</p>
+            <p>Thus to ſift out, or rather to ſhift out ſuch a filth and froth of ſcummie diſgrace, againſt thoſe whom God hath preſerved abroad, and honoured at home, for their faithfulneſſe; inſomuch, as all the wiles of envy could never yet really produce one unjuſt act committed by them.</p>
+            <p>You add to Sion, baſeneſſe, inſtead of beauty, and acknowledge truths which you afterward gainſay.</p>
+            <p>And now to come to your Charge; and had your Witneſſes been as ready as that is, I had been ſilent; it
+<pb n="2" facs="tcp:113678:4"/>is a very ridiculous thing to bring in a Charge, before the Witneſſes are either knowne or borne.</p>
+            <p n="1">1
+<note place="margin">Pag. 2, 3.</note> But ſay you, <hi>Many godly Presbyterians dare not think ill of them, becauſe they preach ſound Doctrine:</hi> Of whoſe mind I alſo am, as not derogating from the Rule of Scripture, and right Reaſon.</p>
+            <p>But <hi>Schiſmaticks</hi> (ſay you) <hi>Salamander-like, love to live in the fiery heat of heady diſputes.</hi>
+               <note place="margin">Pag. 3.</note>
+            </p>
+            <p>Shall I grant, they would rather diſpute it out, then raile it out, I thinke no wiſe men will gainſay that diſ<g ref="char:EOLhyphen"/>putation.</p>
+            <p>But, ſay you, <hi>Independents ſpread their falſe Doctrine by their licentious and unlimited Government.</hi>
+            </p>
+            <p>Which of the two, Independent Congregations, or Parochiall, in conſcience (think you) are the moſt li<g ref="char:EOLhyphen"/>centious? ſhould you have the examples given in you would be aſhamed to owne the Parallel.</p>
+            <p>It would prove a harder task for you to prove ſound Doctrine and Sacraments purely adminiſtred in your Pariſhes,
+<note place="margin">Pag. 4.</note> then you take it to be, where children of near a hundred yeares old may be found with more eaſe, then able ſelfe-examining men.</p>
+            <p>But your judgment is more infallible then Scripture or right Reaſon, ſhould I take your word for what you ſay.</p>
+            <p>O ſay you, <hi>Let not this trouble you; but ſtride over this difficulty with me, and behold what falſe doctrines they teach, and how they broach their damnable plea for toleration for all.</hi>
+            </p>
+            <p>Sir, <hi>For all?</hi> what <hi>all</hi> do you meane? If by <hi>all</hi> you meane all of contrary judgments to them, that is falſe.</p>
+            <p>But if by <hi>all</hi> you meane all truths grounded upon
+<pb n="3" facs="tcp:113678:4"/>Scripture-foundation, which is their endeavour, I alſo am of that <hi>all.</hi>
+            </p>
+            <p>But Sir, What do you mean by <hi>their damnable do<g ref="char:EOLhyphen"/>ctrine?</hi> is it becauſe they teach not ſo ſound Presby<g ref="char:EOLhyphen"/>terian Government as you?</p>
+            <p n="2">2 Your ſecond ſtumbling-blocke is <hi>their piety,
+<note place="margin">Pag. 6.</note> which</hi> (you ſay) <hi>cauſes many to thinke well of them:</hi> but you remove this as eaſily as the former, and upon as good a ground; for, ſay you, <hi>This is</hi> Sathans <hi>old cloake, with which he covered</hi> Arrius, Pelagius, <hi>and</hi> Ar<g ref="char:EOLhyphen"/>minius, <hi>who were men of extraordinary outward holi<g ref="char:EOLhyphen"/>neſſe, and admirable for their parts.</hi>
+            </p>
+            <p>But ſay you, <hi>The Devill doth not ſhow his hornes and cloven feet at firſt.</hi>
+            </p>
+            <p>You might as well have ſaid, The Biſhops and Popes of Rome did not act all their power at firſt.</p>
+            <p>But where is your Witneſſe? theſe men are Arrians and Pelagians: either recall your Inference, or produce your Witneſſe: But this is the devills method, where he cannot faſten a blemiſh, there he will lay a reproach.</p>
+            <p>But ſay you,
+<note place="margin">Pag. 7.</note> 
+               <hi>holineſſe of life is a falſe touch-ſtoneto try men by.</hi>
+            </p>
+            <p>This you prove out of theſe words of <hi>Paul Be yee followers of me, as I alſo am of Chriſt;</hi> upon which place ſaith this learned Expoſitor, follow me no farther then I follow Chriſt, in ſound Doctrine, and Holineſſe: Firſt and principally ſound Doctrine, and then Holi<g ref="char:EOLhyphen"/>neſſe to ſtrengthen that.</p>
+            <p>Learned Sir, doth <hi>Paul</hi> here ſet himſelfe out as an example, or Chriſt whom he here mentions? if <hi>Paul</hi> meane himſelfe, then you ſhall find him a choſen Veſ<g ref="char:EOLhyphen"/>ſell, before he ever preached ſound Doctrine, but if
+<pb n="4" facs="tcp:113678:5"/>Chriſt bee his example, then hee was ever perfect in both.</p>
+            <p>But you undertake to juſtifie,
+<note place="margin">Pag. 8.</note> 
+               <hi>That it is more ſafe and ſweet for a ſoule to love, like, and to follow and imitate a Paſtour ſound and Orthodox in Doctrine and Judgement, though ſubject to much weakneſſe and humane infirmity, then him that ſeemes to be moſt exact and ſtrict in his out<g ref="char:EOLhyphen"/>ward walking and converſation, if hee premed tatedly (a<g ref="char:EOLhyphen"/>gainſt all perſwaſtions and convictions) go on in publike profeſsion of Error.</hi>
+            </p>
+            <p>Sir, what doe you meane by this ſound Doctrine?</p>
+            <p>If a ſervant in ſeven yeares apprenticeſhip attaine more perfection in his trade then his Maſter, will anie be ſo ridiculous as to ſay, he is a falſe workman, be<g ref="char:EOLhyphen"/>cauſe he workes better then his Maſter.</p>
+            <p>The Scribes and Phariſees in their ſeeming holineſſe and perverting of the Law,
+<note place="margin">Pag. 6, 7.</note> were alwaies as ready as you have been at this time to viliſie, raile at, and op<g ref="char:EOLhyphen"/>poſe all thoſe new Doctrines then, whoſe ſincerity out<g ref="char:EOLhyphen"/>ſtript their formality.</p>
+            <p>And if you have attained ſuch a perfect ſight in your laſt age, that you can ſee through many godly men, to be meare diſſemblers, and ſly deceivers, your perfection is a miraculous worke.</p>
+            <p>But we know now miracles are denyed, and there<g ref="char:EOLhyphen"/>fore I ſhall conclude with denyall of the ſame, becauſe you would have ſeene to have written a farre more moderate worke, had you been ſo quick-fighted, or ra<g ref="char:EOLhyphen"/>ther none at all of ſuch a nature as this is.</p>
+            <p>But in a word you ſay,
+<note place="margin">Pag. 7, 8.</note> 
+               <hi>Soundneſſe of life is not ſo much to be noted as ſoundneſſe of Doctrine; for, follow Chriſt in his Doctrine, and let holineſſe of life ſtreng<g ref="char:EOLhyphen"/>then it.</hi>
+            </p>
+            <pb n="5" facs="tcp:113678:5"/>
+            <p>What need you ſet the cart before the horſe, were not your deſigne in this, to draw backward?</p>
+            <p>For will you lay a ſtumbling block where never yet any lay? where throughout the whole Word of God was reall holineſſe, a ſtumbling blocke, but that he that doth ſincerely the will of God, he chief<g ref="char:EOLhyphen"/>ly ſhall know the Doctrines of God; Chriſt promi<g ref="char:EOLhyphen"/>ſed bleſſedneſſe to the doer of his Word.</p>
+            <p>You ſay,
+<note place="margin">Pag. 9.</note> 
+               <hi>He that deſires to heare a Sermon which is Satans muſicke, let him go heare M.</hi> Peters: But well now may it be ſaid, he that will read a booke that ſpeakes the Devills language, let him read M. <hi>Vicars</hi> his <hi>Schiſmaticke ſifted.</hi>
+            </p>
+            <p>You thought much M. <hi>Peters</hi> ſhould ſay, the pi<g ref="char:EOLhyphen"/>cture of Independents was all nought; but certaine<g ref="char:EOLhyphen"/>ly now your verie friends will have cauſe to ſay, this is all worſe then nought.</p>
+            <p>And ſhall I tell you, notwithſtanding ſuch requi<g ref="char:EOLhyphen"/>talls as you returne him, yet hath God honoured him ſo farre as to be an inſtrument of much praiſe to ſound in Sion.</p>
+            <p>Thirdly, you proceed according to your former method, concluding before your proof, paſſing ſen<g ref="char:EOLhyphen"/>tence before the Judge, that Independents are no Chriſtians by two Scripture Characters.</p>
+            <list>
+               <item>1. <hi>To ſpeake all the truth from their heart.</hi>
+               </item>
+               <item>2. <hi>Having promiſed or ſworne though to their loſſe, yet not to break their covenant.</hi>
+               </item>
+            </list>
+            <p>Now to this I ſay, make good your charge, which you doe as well as you can.</p>
+            <p>And thus you proceed, <hi>That they are notorious diſ<g ref="char:EOLhyphen"/>ſemblers, and deceivers, for in their Apologeticall nar<g ref="char:EOLhyphen"/>ration
+<pb n="6" facs="tcp:113678:6"/>they call themſelves Gods poore exiled and baniſh<g ref="char:EOLhyphen"/>ed ones,
+<note place="margin">Pag. 1, 2.</note> whereas they went into the very fatteſt part of all Holland and could ſpend two or three hundred a yeare, and better:</hi> but where is your witneſſe?</p>
+            <p>M. <hi>Edwards</hi> ſaith ſo:</p>
+            <p>But neither he nor you proves the contrary. Here<g ref="char:EOLhyphen"/>in the good pleaſure of God being manifeſted un<g ref="char:EOLhyphen"/>to them that as he called them out into a ſtrange Land, ſo he ſhewed himſelfe there to be their God alſufficient.</p>
+            <p>Further,
+<note place="margin">Pag. 12.</note> but ſay you, <hi>In their Apologeticall Narra<g ref="char:EOLhyphen"/>tion, they acknowledge the Congregations in England where they were converted, the true Church and Body of Chriſt, and Parochiall Miniſters true Miniſters, ne<g ref="char:EOLhyphen"/>ver judging them Antichriſtian, but now they ſeperate from us, as Antichriſtian.</hi>
+            </p>
+            <p>
+               <hi>Quaere.</hi> Why may not they now ſeperate from you, ſince you have now ſeparated from them; were not theſe men nearer to your affections, while they were in exile, which you then acknowledged and prayed for their returne, how could you thus affect theſe men who were famous for God in a ſtrange Land, and now thus endeavour to eſtrange them from that God in their native Land, in the enjoy<g ref="char:EOLhyphen"/>ment of his pure Ordinances?</p>
+            <p>They little thought ſo many faithfull Miniſters left behind in England under Epiſcopall Tyranny, when they ſhould come to have power in their hands, they would have proved ſo violent for ſo poor a formall way, had they the equall power the former had.</p>
+            <p>But further,
+<note place="margin">Pag. 14.</note> you ſay, <hi>They reſolved deeply not to
+<pb n="7" facs="tcp:113678:6"/>vent their owne opinion through pride, and ſingularity,</hi> which you ſay, <hi>M.</hi> Burroughs, <hi>M.</hi> Simſon, <hi>and Ma<g ref="char:EOLhyphen"/>ſter</hi> Bridge <hi>hath done.</hi>
+            </p>
+            <p>Where is your witneſſe? M. <hi>Edwards</hi> ſaith ſo in his excellent Worke.</p>
+            <p>Are you not both affraid and aſhamed to ſpeake ſo great an untruth? is the Word of the eternall God become mans opinion, hath God ſhewed them his Word and his Will, and that more eſpecially in a ſtrange Land, where they were not ill intreated, although they followed the rule of that Word there, and ſhall not they bee as free to cloſe with God at home? ô ſtrange myſterie of iniquitie!</p>
+            <p n="4">4. Now to your great Charge,
+<note place="margin">Pag. 16.</note> or to the chiefe chaffe of your ſiftings, wherein you ſeeme to carrie all on your ſide, to the diſgrace of the fore-menti<g ref="char:EOLhyphen"/>oned Independent-party, taxing them diſgraceful<g ref="char:EOLhyphen"/>ly of breach of Covenant, <hi>which was confirmed</hi> (ſay you) <hi>by an Inſtrument, or Writing ſubſcribed by both parties, left by their conſent in the hands of M.</hi> Calamy <hi>for a Witneſſe at all occaſions to ſee:</hi> but ſay you, <hi>M.</hi> Nye <hi>borrowed the ſaid Writing of M.</hi> Calamie <hi>under pretence to view it, but never would returne it, preten<g ref="char:EOLhyphen"/>ding he left it behind him at Hull.</hi>
+            </p>
+            <p>And firſt give me leave to deale piainly, ſince you deale ſo wiſely, and declare plainely who was the firſt contriver of this defigne.</p>
+            <p>Secondly, why was the agreement left wholly in one mans hand, and he no moderator? but a chiefe oppoſer of the diſſenting Party, who as yet have ever been on the weaker ſide, in reference to earthly powers: For although you ſay, you have
+<pb n="8" facs="tcp:113678:7"/>not ſtirred, yet you have ſtirred up others for procu<g ref="char:EOLhyphen"/>ring a power which you have got; witneſſe, the ground you have got of your diſſenting Brethren.</p>
+            <p n="5">5.
+<note place="margin">Pag. 8.</note> Say you, <hi>The Inependent party have oft been de<g ref="char:EOLhyphen"/>ſired to give in their Modell, but they have refuſed and delayed it time after time, both to divers abroad, as well as to us at home.</hi>
+            </p>
+            <p>Well Sir, here is your charge againe, but did not M- <hi>Edwards</hi> ſay this alſo?</p>
+            <p>Why ſhould it ſeeme ſo ſtrange, that their forme is not ſo ſoone ready as yours? truly the Reformed Churches never did ſo much for them, as they have done for you; there is more power upon their ſpi<g ref="char:EOLhyphen"/>rits, then ever yours in its dead letter can attaine; why are you ſo earneſt to ſee all of that, a part of which you ſo cry out againſt? witneſſe Mr. <hi>Bur<g ref="char:EOLhyphen"/>roughs,</hi> Mr. <hi>Simſon,</hi> and Mr. <hi>Bridge,</hi> for their diſcove<g ref="char:EOLhyphen"/>rie in their Expoſitions and Sermons, which truths have ſo ſhaken your deſired government, that a far<g ref="char:EOLhyphen"/>ther diſcovery certainely would yeeld you but ſmall comfort; for Gods deſign is to make Chriſt glori<g ref="char:EOLhyphen"/>ous in his Kingly Office, who is the only King of Saints, Churches, and Kingdomes: and when hee ſhall poſſeſſe himſelfe of his royall Soveraignty, all powers ſhall be ſubjected and ſubdued to him; and then ſhall the glorie of all other powers under him appear.</p>
+            <p>Farther,
+<note place="margin">Pag. 22.</note> you tax Independents, ſaying, <hi>They were oppoſers of the powers of Parliament untill the late Ele<g ref="char:EOLhyphen"/>ction of new Members, which</hi> (ſay you) <hi>they thinke hath ſet them upon the wing of hope, to attaine their de<g ref="char:EOLhyphen"/>ſire, that either the Presbytery ſhall not be ſetled, or if it
+<pb n="9" facs="tcp:113678:7"/>be, their power ſhall be ſo clipt, as it ſhall doe them no harme.</hi>
+            </p>
+            <p>Sir, in what worke have theſe good men ſought to hinder the Presbytery, farther then they have endeavoured to deprive them of their Liberties? and let mee tell you, that if your Presbyterian friends countenance this your worke, and approve of your languages therein; it is verie well for them that you thus vilifie, that their enemies have not ſo much power, as ſome wiſh they had: for in the whole ſtorie of the Biſhops tyranny, there will not be a worke of 39. pages found out to parallell this, written by anie Sophyſticall Chaplain, or Papall Prieſt, to ſtirre up all powers then againſt the ſtrict<g ref="char:EOLhyphen"/>eſt Puritan of thoſe times.</p>
+            <p>But bleſſed be God, you cannot prevaile, and the bleſſing of the eternall God be multiplied upon them that have power in their hands, and reſerve that power in their hands, to thoſe that merit ſuch an exerciſe of it from them.</p>
+            <p>But you further proceed,
+<note place="margin">Pag. 16.</note> taxing theſe Indepen<g ref="char:EOLhyphen"/>dents, ſaying, <hi>That they make the ſolemne League and Covenant a ſnare to your conſciences, by their ſubtilty, ſaying, the literall ſenſe is not to be taken.</hi>
+            </p>
+            <p>Sir, I would faine be reſolved in this doubt, con<g ref="char:EOLhyphen"/>cerning which I have not thought a little.</p>
+            <p>
+               <hi>Quaere.</hi> Whether the literall ſenſe of the Cove<g ref="char:EOLhyphen"/>nant, without any private preſumed interpretation, be not fully as much to ſtrengthen the Parliament and the Kingdomes in their juſt Rights and Liber<g ref="char:EOLhyphen"/>ties, as the eſtabliſhing and furniſhing of the Gover<g ref="char:EOLhyphen"/>nours and Government of the Church with their deſired power?</p>
+            <pb n="10" facs="tcp:113678:8"/>
+            <p>The Reaſon of this Propoſall is, becauſe many are ſo violent for the Church, that it is to be feared, they neglect the State.</p>
+            <p>If all things be well conſidered, when this happy Parliament began firſt to ſit, was not the current of Juſtice more ſtopt up by farre, then the current of Diſcipline? and hath not the ſetling of Juſtice, the Power of the Parliament, and the Liberty of the Subject, proved far more difficult then ever any Government in the Church can bee; the Privi<g ref="char:EOLhyphen"/>ledges of the State and Kingdome being ſo op<g ref="char:EOLhyphen"/>poſed by the Sword: but (praiſed bee GOD) now ſomething neare overcome? whereas the o<g ref="char:EOLhyphen"/>ther may ſpeedily bee moderated, and ſweetly con<g ref="char:EOLhyphen"/>cluded, by the good Word of God, that ſafe and unerring Rule.</p>
+            <p>Some of thoſe that ſuffered great perſecution in the Biſhops times, have confeſſed that it was not ſo much for oppoſing Prelacie as Tyrannie, which the Prelates (by their incroaching upon the power of the State) proved themſelves the chiefe diſtur<g ref="char:EOLhyphen"/>bers of the Subjects Liberty.</p>
+            <p>And I appeale to all the truly godly, whether the deſigne of our bloud-thirſtie enemies yet up in armes, be not more to eſtabliſh a tyrannicall Go<g ref="char:EOLhyphen"/>vernment in the State, then an Eccleſiaſticall Diſci<g ref="char:EOLhyphen"/>pline in the Church.</p>
+            <p>And thus I leave to your conſiderations the de<g ref="char:EOLhyphen"/>ſigne of thoſe that ſtirre more for the Government, then the diſtreſſed three Kingdomes ſettlement in a bleſſed peace, with all their Priviledges.</p>
+            <p>But I finde a light here that much offends your
+<pb n="11" facs="tcp:113678:8"/>eyes, it is a ſtrange light to you, as well as a new light; I perſwade me, it is a hot light alſo, and you love a middle temper: I would fain know what light enlightened you ſo farre,
+<note place="margin">Pa. 34, 35.</note> as to be for a Reformation that ſhould be verie glorious, are your eyes now growne weake with looking too ſtedfaſtly, inſo<g ref="char:EOLhyphen"/>much as your deſire is now to leave one old light, and take another? or becauſe one ſmall candle is burnt out, will you light up another of the ſame ſize?</p>
+            <p>And now to draw up a concluſion,
+<note place="margin">Pag. 38.</note> 
+               <hi>he that is righ<g ref="char:EOLhyphen"/>teous, let him be righteous ſtill,</hi> though taxt with deep diſſimulation. And he that is a railer let him not be a railer ſtill: And <hi>he that is holy let him be holy ſtill,</hi> though hee be accounted never ſo unholy; For be<g ref="char:EOLhyphen"/>hold, he that is to come, will come quickly and his reward is with him to render to evrie man accordng to his work: then ſhall he diſcern betwixt the righ<g ref="char:EOLhyphen"/>teous and the wicked; betwixt him that ſerveth God, and him that ſerveth him not.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
